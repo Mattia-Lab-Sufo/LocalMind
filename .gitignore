@@ -1,0 +1,17 @@
+# Built application files
+*.apk
+*.aar
+*.aab
+
+# Files that should not be cached
+.gradle/
+build/
+app/build/
+
+# Local configuration file (contains SDK path)
+local.properties
+
+# VS Code specific files
+.vscode/
+.DS_Store
+*.hprof
