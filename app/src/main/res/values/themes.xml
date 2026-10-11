@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema di base sicuro e compatibile -->
+    <style name="Theme.LocalMind" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#0D1117</item>
+        <item name="android:statusBarColor">#0D1117</item>
+        <item name="android:navigationBarColor">#161B22</item>
+    </style>
+</resources>
